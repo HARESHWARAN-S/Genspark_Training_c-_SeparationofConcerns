@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\bin\Debug\net8.0\NotificationModelLibrary.deps.json
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\bin\Debug\net8.0\NotificationModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\bin\Debug\net8.0\NotificationModelLibrary.pdb
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.AssemblyInfo.cs
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\refint\NotificationModelLibrary.dll
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\NotificationModelLibrary.pdb
+C:\Users\HP\Desktop\Presidio\Genspark\C#\Day6\NotificationSolution\NotificationModelLibrary\obj\Debug\net8.0\ref\NotificationModelLibrary.dll
